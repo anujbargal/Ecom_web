@@ -23,7 +23,6 @@ A modern full-stack web application designed to streamline online connectivity a
 - **Spring Boot** framework for fast development
 - **RESTful API** endpoints to connect frontend with backend
 - **Spring Data JPA / Hibernate** for database interactions
-- **MySQL / PostgreSQL** as relational database (configurable)
-- **Security** via Spring Security and JWT (optional)
+- **H2** as relational database (configurable)
 
 ---
